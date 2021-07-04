@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649065004604",
+    "firebase_url": "https://e-taxi-c2ce1-default-rtdb.firebaseio.com",
+    "project_id": "e-taxi-c2ce1",
+    "storage_bucket": "e-taxi-c2ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649065004604:android:43ba50664bb6dd2fda4d39",
+        "android_client_info": {
+          "package_name": "com.birat.e_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649065004604-dvl48tfa9cssu0u8i0oih4d7jbb97eka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birat.e_taxi",
+            "certificate_hash": "92be78394d1e944ba639cafa2ac7e257b22e2531"
+          }
+        },
+        {
+          "client_id": "649065004604-akp9aomh6be7lpu4pkkseb7j2pmii4b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWe6XPYOS0wJrGNQAh6lCRNap9YAhbLkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649065004604-akp9aomh6be7lpu4pkkseb7j2pmii4b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
